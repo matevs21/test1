@@ -1,0 +1,45 @@
+id,ageid,Agency,installid,installation,contractingOffice,amount
+1,1,news,102,Consumer Reports,Consumer Reports,3200000
+2,1,news,102,New York Times,New York Times,2333000
+3,1,news,108,WSJ,WSJ,1080000
+4,1,news,113,Washington Post,Washington Post,1000000
+5,1,news,112,Financial Times,Financial Times,650000
+6,1,news,109,America's Test Kitchen,America's Test Kitchen,500000
+7,1,news,106,BILD,BILD,334000
+8,1,news,102,The Economist,The Economist,325000
+9,1,news,112,The Guardian,The Guardian,230000
+10,1,news,107,Helsingin Sanomat,Helsingin Sanomat,200000
+11,1,news,115,The Times of London,The Times of London,182000
+12,1,news,105,The Telegraph,The Telegraph,125000
+13,1,news,102,Aftenposten,Aftenposten,110000
+14,1,news,109,LA Times,LA Times,105000
+15,1,news,102,De Correspondent,De Correspondent,52000
+16,1,news,105,Star Tribune,Star Tribune,50000
+17,1,news,103,Slate,Slate,26700
+18,1,news,102,Talking Points Memo,Talking Points Memo,11000
+19,2,services,107,Amazon Prime,Amazon Prime,80000000
+20,2,services,109,Playstation Plus,Playstation Plus,26400000
+21,2,services,107,Lynda.com,Lynda.com,4000000
+22,2,services,113,Ancestry.com ,Ancestry.com ,2600000
+23,2,services,109,Daily Burn,Daily Burn,2500000
+24,2,services,104,Bloomberg Terminal ,Bloomberg Terminal ,325000
+25,2,services,114,Reuters Eikon,Reuters Eikon,133000
+26,3,b2b,101,eMarketer,eMarketer,100000
+27,3,b2b,102,Politico Pro,Politico Pro,25000
+28,3,b2b,115,The Information,The Information,10000
+29,3,b2b,114,Business Insider,Business Insider,75000
+30,4,video,112,Netflix,Netflix,109000000
+31,4,video,104,Hulu,Hulu,15000000
+32,4,video,112,HBO NOW,HBO NOW,2400000
+33,4,video,105,Sling,Sling,2000000
+34,4,video,102,CBS All Access,CBS All Access,1500000
+35,4,video,102,YouTube Red,YouTube Red,1500000
+36,4,video,111,Showtime,Showtime,1500000
+37,4,video,104,WWE,WWE,1500000
+38,4,video,115,Crunchyroll,Crunchyroll,1000000
+39,4,video,114,DIRECT TV NOW,DIRECT TV NOW,4910000
+40,4,video,115,Playstation Vue,Playstation Vue,4500000
+41,4,video,111,Youtube TV,Youtube TV,2000000
+42,5,music,113,Spotify,Spotify,60000000
+43,5,music,111,Apple Music,Apple Music,27000000
+44,5,music,104,Pandora,Pandora,48600000
