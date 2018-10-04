@@ -1,0 +1,45 @@
+id,ageid,Agency,installid,installation,contractingOffice,amount
+1,1,news,101,Consumer Reports,£na,3200000
+2,1,news,101,New York Times,£na,2333000
+3,1,news,101,WSJ,£na,1080000
+4,1,news,101,Washington Post,£na,1000000
+5,1,news,101,Financial Times,£na,650000
+6,1,news,101,America's Test Kitchen,£na,500000
+7,1,news,101,BILD,£na,334000
+8,1,news,101,The Economist,£na,325000
+9,1,news,101,The Guardian,£na,230000
+10,1,news,101,Helsingin Sanomat,£na,200000
+11,1,news,101,The Times of London,£na,182000
+12,1,news,101,The Telegraph,£na,125000
+13,1,news,101,Aftenposten,£na,110000
+14,1,news,101,LA Times,£na,105000
+15,1,news,101,De Correspondent,£na,52000
+16,1,news,101,Star Tribune,£na,50000
+17,1,news,101,Slate,£na,26700
+18,1,news,101,Talking Points Memo,£na,11000
+19,2,services,101,Amazon Prime,£na,80000000
+20,2,services,101,Playstation Plus,£na,26400000
+21,2,services,101,Lynda.com,£na,4000000
+22,2,services,101,Ancestry.com ,£na,2600000
+23,2,services,101,Daily Burn,£na,2500000
+24,2,services,101,Bloomberg Terminal ,£na,325000
+25,2,services,101,Reuters Eikon,£na,133000
+26,3,b2b,101,eMarketer,£na,100000
+27,3,b2b,101,Politico Pro,£na,25000
+28,3,b2b,101,The Information,£na,10000
+29,3,b2b,101,Business Insider,£na,75000
+30,4,video,101,Netflix,£na,109000000
+31,4,video,101,Hulu,£na,15000000
+32,4,video,101,HBO NOW,£na,2400000
+33,4,video,101,Sling,£na,2000000
+34,4,video,101,CBS All Access,£na,1500000
+35,4,video,101,YouTube Red,£na,1500000
+36,4,video,101,Showtime,£na,1500000
+37,4,video,101,WWE,£na,1500000
+38,4,video,101,Crunchyroll,£na,1000000
+39,4,video,101,DIRECT TV NOW,£na,4910000
+40,4,video,101,Playstation Vue,£na,4500000
+41,4,video,101,Youtube TV,£na,2000000
+42,5,music,101,Spotify,£na,60000000
+43,5,music,101,Apple Music,£na,27000000
+44,5,music,101,Pandora,£na,48600000
